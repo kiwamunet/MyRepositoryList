@@ -4,6 +4,11 @@
 
 [JASidePanels](https://github.com/gotosleep/JASidePanels)
 
+---
+
+[IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
+
+![](https://github.com/hackiftekhar/IQKeyboardManager/raw/master/KeyboardTextFieldDemo/Screenshot/IQKeyboardManager.gif)
 ## 非同期処理
 
 [BrightFutures](https://github.com/Thomvis/BrightFutures)
