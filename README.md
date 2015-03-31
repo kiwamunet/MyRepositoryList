@@ -24,6 +24,12 @@
 
 ---
 
+[iOS-blur](https://github.com/JagCesar/iOS-blur)
+
+<img src="https://camo.githubusercontent.com/1a3847644269c1e9706c31c6ea9525bd5fc385b4/68747470733a2f2f7261772e6769746875622e636f6d2f4a616743657361722f694f532d626c75722f6d61737465722f73637265656e73686f742e706e67" width="300">
+
+---
+
 ## 非同期処理
 
 [BrightFutures](https://github.com/Thomvis/BrightFutures)
