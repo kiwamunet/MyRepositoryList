@@ -4,6 +4,8 @@
 
 [JASidePanels](https://github.com/gotosleep/JASidePanels)
 
+<img src="https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/204/original.jpg" width="300">
+
 ---
 
 [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
