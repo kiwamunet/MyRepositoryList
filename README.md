@@ -39,6 +39,12 @@
 
 ---
 
+[YKImageCropper](https://github.com/yuyak/YKImageCropper)
+
+<img src="https://camo.githubusercontent.com/3bb6276fb609fc46d0e65170312604251a70201e/68747470733a2f2f7261772e6769746875622e636f6d2f797579616b2f594b496d61676543726f707065722f6d61737465722f4578616d706c652f73637265656e73686f742e706e67" width="300">
+
+---
+
 ## 非同期処理
 
 [BrightFutures](https://github.com/Thomvis/BrightFutures)
