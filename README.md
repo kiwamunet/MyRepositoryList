@@ -10,6 +10,15 @@
 
 <img src="https://github.com/hackiftekhar/IQKeyboardManager/raw/master/KeyboardTextFieldDemo/Screenshot/IQKeyboardManager.gif" width="300">
 
+---
+
+[RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers)
+
+<img src="https://camo.githubusercontent.com/90e2e5abbe8155744d579951b93a1260edef855e/687474703a2f2f692e696d6775722e636f6d2f7a6c66574461312e676966" width="300">
+<img src="https://camo.githubusercontent.com/e2ab68caa37ed4e284c24ce573406e317cfe5d63/687474703a2f2f692e696d6775722e636f6d2f646c343232454c2e676966" width="300">
+
+---
+
 ## image
 
 [PEPhotoCropEditor](https://github.com/kishikawakatsumi/PEPhotoCropEditor)
