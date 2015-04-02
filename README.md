@@ -69,3 +69,7 @@
 ---
 
 [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+
+---
+
+[Swiftで作られたイケてるUIライブラリたち](http://qiita.com/susieyy/items/1f28531a1c58d9158896)
