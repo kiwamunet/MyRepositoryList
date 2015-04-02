@@ -1,5 +1,18 @@
 # MyRepositoryList
 
+## 参考にしたいサイトたち
+[Swift 時代の新定番！iOS アプリ開発で使えるオススメのオープンソースライブラリまとめ](http://dev.classmethod.jp/smartphone/iphone/swift-oss/)
+
+---
+
+[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+
+---
+
+[Swiftで作られたイケてるUIライブラリたち](http://qiita.com/susieyy/items/1f28531a1c58d9158896)
+
+---
+
 ## UI
 
 [JASidePanels](https://github.com/gotosleep/JASidePanels)
@@ -63,13 +76,3 @@
 
 ---
 
-## その他参考サイト
-[Swift 時代の新定番！iOS アプリ開発で使えるオススメのオープンソースライブラリまとめ](http://dev.classmethod.jp/smartphone/iphone/swift-oss/)
-
----
-
-[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
-
----
-
-[Swiftで作られたイケてるUIライブラリたち](http://qiita.com/susieyy/items/1f28531a1c58d9158896)
