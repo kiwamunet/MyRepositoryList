@@ -13,6 +13,10 @@
 
 ---
 
+[SwiftのJSONを扱うライブラリまとめ](http://qiita.com/susieyy/items/6cd0a2293555d5abb9c1)
+
+---
+
 ## UI
 
 [JASidePanels](https://github.com/gotosleep/JASidePanels)
