@@ -78,6 +78,34 @@
 
 ---
 
+## form
+
+<img src="" width="300">
+
+[XLForm](https://github.com/xmartlabs/XLForm)
+
+<img src="https://github.com/xmartlabs/XLForm/blob/master/Examples/Objective-C/Examples/RealExamples/XLForm.gif" width="300">
+
+---
+
+[FXForms](https://github.com/nicklockwood/FXForms)
+
+<img src="https://camo.githubusercontent.com/2db288520cb0d9a044aaa7ccd977c91c9cd88c04/68747470733a2f2f7261772e6769746875622e636f6d2f6e69636b6c6f636b776f6f642f4658466f726d732f312e322e332f4578616d706c65732f42617369634578616d706c652f53637265656e73686f742e706e67" width="300">
+
+---
+
+[IBAForms](https://github.com/ittybittydude/IBAForms)
+
+<img src="https://github.com/ittybittydude/IBAForms/raw/master/doc/screenshots/BasicFields.jpg" width="300">
+
+---
+
+[SwiftForms](https://github.com/ortuman/SwiftForms)
+
+<img src="https://github.com/ortuman/SwiftForms/raw/master/SwiftForms/Example.gif" width="300">
+
+---
+
 ## 非同期処理
 
 [BrightFutures](https://github.com/Thomvis/BrightFutures)
