@@ -34,6 +34,12 @@
 
 ---
 
+[SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)
+
+<img src="https://github.com/dekatotoro/SlideMenuControllerSwift/raw/master/Screenshots/SlideMenuControllerSwift.gif" width="100">
+
+---
+
 [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
 
 <img src="https://github.com/hackiftekhar/IQKeyboardManager/raw/master/KeyboardTextFieldDemo/Screenshot/IQKeyboardManager.gif" width="100">
