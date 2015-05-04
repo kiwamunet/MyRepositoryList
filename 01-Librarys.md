@@ -28,6 +28,12 @@
 
 ---
 
+[ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)
+
+<img src="https://raw.githubusercontent.com/evnaz/ENSwiftSideMenu/master/side_menu.gif" width="100">
+
+---
+
 [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
 
 <img src="https://github.com/hackiftekhar/IQKeyboardManager/raw/master/KeyboardTextFieldDemo/Screenshot/IQKeyboardManager.gif" width="100">
