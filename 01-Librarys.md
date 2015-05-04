@@ -42,6 +42,12 @@
 
 ---
 
+[Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS)
+
+<img src="https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966" width="100">
+
+---
+
 [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
 
 <img src="https://github.com/hackiftekhar/IQKeyboardManager/raw/master/KeyboardTextFieldDemo/Screenshot/IQKeyboardManager.gif" width="100">
